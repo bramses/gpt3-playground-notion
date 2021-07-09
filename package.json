@@ -1,0 +1,17 @@
+{
+  "name": "gpt-to-notion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gpt-settings-to-notion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.1.9",
+    "dotenv": "^10.0.0",
+    "uuid": "^8.3.2"
+  }
+}
